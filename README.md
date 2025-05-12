@@ -1,2 +1,2 @@
 # redes-sockets
-Atividades do relatório de sockets TCP na matéria de Redes II durante o curso de Ciência da Computação
+Atividades dos relatórios de sockets TCP e UDP na matéria de Redes II durante o curso de Ciência da Computação
